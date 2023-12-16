@@ -8,7 +8,7 @@ Created on Fri Dec  1 14:32:07 2023
 ###ولك الوووووووووووووو
     الووووووووووووووو
 
-
+print("ali mahsen ali alhmodi")
 import numpy as n
 
 
